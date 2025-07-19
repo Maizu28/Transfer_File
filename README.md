@@ -65,7 +65,7 @@ Setelah semua dependensi terinstal, jalankan server Flask:
 python app.py
 
 6. Akses Uploader Anda
-Buka browser di laptop Anda dan kunjungi http://127.0.0.1:5000.
+Buka browser di laptop Anda dan kunjungi http://127.0.0.1:5000 atau Link yang ada di Terminal.
 
 Untuk mengakses dari perangkat lain (ponsel/tablet), pastikan perangkat tersebut terhubung ke jaringan Wi-Fi yang sama, lalu pindai QR code yang muncul di halaman web.
 
