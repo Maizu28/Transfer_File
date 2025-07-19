@@ -43,11 +43,11 @@ cd nama-repositori
 3. Buat Virtual Environment (Sangat Disarankan)
 Ini akan mengisolasi dependensi proyek Anda.
 
-Untuk Linux/macOS:
+- Untuk Linux/macOS:
 python3 -m venv venv
 source venv/bin/activate
 
-Untuk Windows:
+- Untuk Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
@@ -62,8 +62,8 @@ Proyek ini memerlukan beberapa library Python. Buat file bernama requirements.tx
 
 5. Jalankan Aplikasi
 Setelah semua dependensi terinstal, jalankan server Flask:
-
 python app.py
+
 6. Akses Uploader Anda
 Buka browser di laptop Anda dan kunjungi http://127.0.0.1:5000.
 
