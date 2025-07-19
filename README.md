@@ -43,13 +43,14 @@ cd nama-repositori
 3. Buat Virtual Environment (Sangat Disarankan)
 Ini akan mengisolasi dependensi proyek Anda.
 
-# Untuk Linux/macOS
+Untuk Linux/macOS
 python3 -m venv venv
 source venv/bin/activate
 
-# Untuk Windows
+Untuk Windows
 python -m venv venv
 .\venv\Scripts\activate
+
 4. Install Dependensi
 Proyek ini memerlukan beberapa library Python. Buat file bernama requirements.txt di dalam folder proyek Anda dan isi dengan:
 
