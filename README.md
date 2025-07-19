@@ -36,16 +36,12 @@ Pastikan Anda sudah menginstal Python 3 di sistem Anda.
 2. Clone Repositori
 Buka terminal atau Git Bash Anda dan clone repositori ini:
 
-Bash
-
 git clone https://github.com/nama-anda/nama-repositori.git
 cd nama-repositori
 (Ganti nama-anda/nama-repositori dengan URL repositori Anda)
 
 3. Buat Virtual Environment (Sangat Disarankan)
 Ini akan mengisolasi dependensi proyek Anda.
-
-Bash
 
 # Untuk Linux/macOS
 python3 -m venv venv
@@ -64,13 +60,9 @@ Pillow
 qrcode[pil]
 Kemudian, install semuanya dengan perintah:
 
-Bash
-
 pip install -r requirements.txt
 5. Jalankan Aplikasi
 Setelah semua dependensi terinstal, jalankan server Flask:
-
-Bash
 
 python app.py
 6. Akses Uploader Anda
